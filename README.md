@@ -1,3 +1,3 @@
 ## My projet
 
-![Logo do meu Projeto](/assets/TelaProjeto.jpg)
+![Logo do meu Projeto](/assets/logo.png)
